@@ -1,0 +1,175 @@
+    1  git config --global user.name "Swetha"
+    2  git config --global user.email "swetha.ravipudi@gmail.com"
+    3  git --version
+    4  git config --global user.name
+    5  git config --global user.email
+    6  git config --global user.email "swetha1510@gmail.com"
+    7  git config --global user.email 
+    8  mkdir myrepo
+    9  ls
+   10  cd myrepo/
+   11  git init
+   12  git status
+   13  vi swetha,txt
+   14  git status
+   15  git add swetha.txt
+   16  vi swetha.txt
+   17  status
+   18  git status
+   19  git add swetha.txt
+   20  git status
+   21  git commit -m "Added a comment"
+   22  git status
+   23  ls
+   24  git -rm swetha,txt
+   25  git remote add origin https://github.com/swetha1510/myrepo.git
+   26  ls
+   27  git push origin master 
+   28  git pull origin master
+   29  vi swetha.txt
+   30  cd..
+   31  cd ..
+   32  git clone https://github.com/devopsguru91/DevOpsDemo.git
+   33  ls
+   34  cd DevOpsDemo
+   35  ls
+   36  vi swetha.txt
+   37  vi Text.txt
+   38  git status
+   39  git add .
+   40  git status
+   41  git commit -m "Added two new files"
+   42  git status
+   43  git log
+   44  git push origin master
+   45  git pull origin master
+   46  git pull origin master
+   47  git pull origin master
+   48  git push origin master
+   49  git branch develop-swetha
+   50  git branch
+   51  git checkout develop-swetha
+   52  ls
+   53  vi develop-swetha.txt
+   54  vi developswetha.txt
+   55  git add.
+   56  git commit -m "swetha develop"
+   57  git push origin develop-swetha
+   58  git checkout -b hotfix-swetha
+   59  vi hotfix-swetha.txt
+   60  git add .&& git commit -m "hotfix swetha"&& git push origin master
+   61  git add .&& git commit -m "hotfix swetha"&& git pull origin master
+   62  git add .&& git commit -m "hotfix swetha"&& git push origin master
+   63   git checkout -b hotfix-swetha
+   64  vi hotfixswetha.txt
+   65  git add. 
+   66  git add .
+   67  git commit -m "hotfix-swetha"
+   68  git push origin hotfix-swetha
+   69  git config --global user.name
+   70  git config --global user.email
+   71  git --version
+   72  git config --global user.name
+   73  git --version
+   74  git config --global user.name
+   75  git config --global user.email
+   76  cd MyRepo
+   77  cd MyRepo/
+   78  mkdir MyRepo
+   79  ls
+   80  init
+   81  git init
+   82  rm -rf .git
+   83  mkdir MyRepo
+   84  l
+   85  ls
+   86  cd MyRepoo
+   87  cd MyRepo
+   88  git init
+   89  git status
+   90  ls
+   91  ls -lt
+   92  touch 1
+   93  cat 1
+   94  cat >>1
+   95  cat 1
+   96  ls
+   97  rm 1
+   98  ls
+   99  vi Swetha.txt
+  100  git status
+  101  git add Swetha.txt
+  102  git status
+  103  git commit 
+  104  git status
+  105  git --version
+  106  git remote add origin https://github.com/Swetha1510/gitpractise.git 
+  107  git push origin master
+  108  git --version
+  109  git --global user.name
+  110  git config --global user.name
+  111  git config --global user.email
+  112  cd myrepo
+  113  touch swetha.txt
+  114  cat >> swetha.txt
+  115  cat swetha.txt
+  116  git status
+  117  git add swetha.txt
+  118  git status
+  119  ls
+  120  git status
+  121  git add .
+  122  git status
+  123  git commit -m "This is my learning test"
+  124  git pull
+  125  git pull origin master
+  126  git push origin master
+  127  cd..
+  128  cd ..
+  129  git clone https://github.com/Swetha1510/DevOps.git
+  130  ls
+  131  cd DevOps
+  132  ls
+  133  vi Swetha.txt
+  134  git status
+  135  git add "Swetha.txt"
+  136  git status
+  137  cat >> text.txt
+  138  git status
+  139  git add "text.txt"
+  140  git status
+  141  git commit -m "Commiting two files swetha.txt and text.txt"
+  142  git status
+  143  git push origin master
+  144  cat text.txt
+  145  cat >>text.txt
+  146  cat text.txt
+  147  git add .
+  148  git commit -m "text file modified"
+  149  git push origin master
+  150  git branch develop
+  151  ks
+  152  ls
+  153  git branch
+  154  git checkout develop
+  155  ls
+  156  vi develop.txt
+  157  git add .
+  158  git commit -m "Develop branch commit"
+  159  git push origin develop
+  160  log
+  161  history
+  162  history|mailx -s "commands swetha.ravipudi@gmail.com
+
+  163  yum install -y mailx
+  164  history | mailx -s "commands swetha.ravipudi@gmail.com
+
+history | mailx -s "commands" swetha.ravipudi@gmail.com
+
+
+  165  history|mailx -s "commands" swetha.ravipudi@gmail.com
+  166  history | mailx -s "commands" swetha.ravipudi@gmail.com
+  167  yum
+  168  history << commands.txt
+  169  ls
+  170  history >> commands.txt
